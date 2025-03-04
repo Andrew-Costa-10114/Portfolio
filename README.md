@@ -5,8 +5,8 @@
 ![Capture](https://github.com/Andrew-Costure/Portfolio/assets/151113796/85c3b5b5-8ffb-498c-b666-c3052f83c25d)
 [Preview](https://Andrew-Costure.github.io/Portfolio/)
 
->>>>>>> 8302373a964acc8c17e34da29e26344dabb79b5b
-> The captivating screenshots of my portfolio website.
+> > > > > > > 8302373a964acc8c17e34da29e26344dabb79b5b
+> > > > > > > The captivating screenshots of my portfolio website.
 
 This is simple personal-portfolio website pages.
 
