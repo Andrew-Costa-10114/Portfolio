@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ![Capture](assets/white-logo.png)
 [Preview](https://github.com/Andrew-Costure/Portfolio)
 =======
