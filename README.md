@@ -1,5 +1,5 @@
-![Capture](https://github.com/NarayaN-HW/Personal-Portfolio/assets/151113796/85c3b5b5-8ffb-498c-b666-c3052f83c25d)
-[Preview](https://narayan-hw.github.io/Personal-Portfolio/)
+![Capture](https://github.com/Andrew-Costure/Portfolio/assets/151113796/85c3b5b5-8ffb-498c-b666-c3052f83c25d)
+[Preview](https://Andrew-Costure.github.io/Portfolio/)
 > The captivating screenshots of my portfolio website.
 
 This is simple personal-portfolio website pages.
@@ -7,8 +7,6 @@ This is simple personal-portfolio website pages.
 ## NARAYAN LAXMI PATIL
 ![HitCount](https://komarev.com/ghpvc/?username=karthik558&style=flat-round&color=890F0D&label=PROJECT-VIEWS)<br>
 Welcome to my portfolio repository! This repository showcases my personal portfolio website, highlighting my Experience, Education, Projects, Skills, and Testimonials. It is built using HTML, CSS, and JavaScript. The website is fully responsive and works great on mobile devices as well. Feel free to explore the code and make it your own! 🚀
-
-🌐 [Check My Website](https://narayanpatil.com)(in-process)
 
 ## About
 
@@ -24,7 +22,7 @@ Dynamic site examples include:
 
 ## Features
 
-- **Testimonials**: Read what my colleagues and clients have to say about me.
+- **Satisfaction**: Read what my employer have to say about me.
 - **Contact**: Reach out to me for collaborations, inquiries, or just to say hello!
 - **Projects/Portfolio**: Explore my featured projects and get an insight into the technologies I've worked with.
 - **Experience**: Learn about my professional experience and the companies I've worked with.
