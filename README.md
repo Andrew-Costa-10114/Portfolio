@@ -15,10 +15,10 @@ A static site is the most basic kind of website, and the easiest to create. It r
 No programming languages, including JavaScript, are required to make a static site. However, if a site utilizes JavaScript, but no PHP or any other programming language, it’s still considered a static site (since JavaScript is a client-side language).
 Dynamic site examples include:
 
-- \*\* E-commerce sites
-- \*\* Blogs
-- \*\* Calendars, or to-do sites
-- \*\* Any site with information that must be updated regularly
+- **E-commerce sites**
+- **Blogs**
+- **Calendars, or to-do sites**
+- **Any site with information that must be updated regularly**
 
 ## Features
 
