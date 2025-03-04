@@ -2,8 +2,6 @@
 ![Capture](assets/white-logo.png)
 [Preview](https://github.com/Andrew-Costure/Portfolio)
 =======
-![Capture](https://github.com/Andrew-Costure/Portfolio/assets/151113796/85c3b5b5-8ffb-498c-b666-c3052f83c25d)
-[Preview](https://Andrew-Costure.github.io/Portfolio/)
 
 ## Andrew Costure
 
