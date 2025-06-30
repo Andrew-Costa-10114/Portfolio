@@ -1,8 +1,8 @@
 ![Capture](assets/white-logo.png)
-[Preview](https://github.com/Andrew-Costure/Portfolio)
+[Preview](https://github.com/Andrew-Costa-10114/Portfolio)
 =======
 
-## Andrew Costure
+## Andrew Costa
 
 ![HitCount](https://komarev.com/ghpvc/?username=karthik558&style=flat-round&color=890F0D&label=PROJECT-VIEWS)<br>
 Welcome to my portfolio repository! This repository showcases my personal portfolio website, highlighting my Experience, Education, Projects, Skills, and Testimonials. It is built using HTML, CSS, and JavaScript. The website is fully responsive and works great on mobile devices as well. Feel free to explore the code and make it your own! 🚀
